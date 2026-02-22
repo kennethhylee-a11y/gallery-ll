@@ -9,7 +9,7 @@ const firebaseConfig = {
   projectId: "galleryll",
   storageBucket: "galleryll.appspot.com",
   messagingSenderId: "136456771676",
-  appId: "1:136456771676:web:efc8e6a556e73094f0ee99"
+  appId: "1:136456771676:web:efc8e6a556e73094f0ee99",
   measurementId: "G-K77SW4N1RM"
 };
 
